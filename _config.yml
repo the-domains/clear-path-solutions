@@ -1,0 +1,28 @@
+name: Clear Path Solutions
+favicon: null
+layout_spectrum: 0.6163105894811451
+typography_spectrum: 0.9393345189746469
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.568200312089175
+  lightness: 0.8257056677248329
+  saturation: 0.1535516269505024
+  rhythmicContrast: 0.034667838364839554
+purpose: []
